@@ -2,7 +2,7 @@ import theme from '@nuxt/content-theme-docs'
 
 export default theme({
     target: 'static',
-        router: {
-        base: '/nuxt-content-test/'
-    }
+    router: {
+        base: '/',
+    },
 })
